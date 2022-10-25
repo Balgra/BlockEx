@@ -5,8 +5,8 @@ import {BrowserRouter, Route, Routes} from "react-router-dom";
 const App = () => {
 
   return (
-    <div className="min-h-screen">
-        <div className="gradient-bg-welcome">
+    <div className="min-h-screen bg-[#322c2c]">
+        <div className="bg-[#9daa4a]">
             <BrowserRouter>
             <Navbar/>
             <Routes>
