@@ -42,7 +42,7 @@ const Navbar = () => {
                             <AiOutlineClose onClick={() => setToggleMenu(false)}/>
                         </li>
                         {["Send ETH", "Market", "Wallets", "Transaction History"].map((item, index) => (
-                            <NavbarItem key={item + index} title={item} classProps="my-2 text-lg" />
+                            <NavbarItem key={item + index} title={item} classProps="text-white my-2 text-lg" />
                         ))}
                     </ul>
                 )}
