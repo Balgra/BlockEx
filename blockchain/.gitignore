@@ -36,3 +36,15 @@ dist-ssr
 *.sln
 *.sw?
 >>>>>>> 54791463c20e4cfac850c20f38764218ead13ee4
+
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+
+#Hardhat files
+cache
+artifacts
+
