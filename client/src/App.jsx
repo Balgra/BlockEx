@@ -15,7 +15,7 @@ const App = () => {
             </Routes>
         </BrowserRouter>
         </div>
-        {/*<Services/>*/}
+        <Services/>
         {/*<Transactions/>*/}
         {/*<Footer/>*/}
     </div>
