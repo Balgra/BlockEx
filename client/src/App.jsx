@@ -16,7 +16,7 @@ const App = () => {
         </BrowserRouter>
         </div>
         <Services/>
-        {/*<Transactions/>*/}
+        <Transactions/>
         {/*<Footer/>*/}
     </div>
   );
