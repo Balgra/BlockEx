@@ -1,7 +1,7 @@
 const Welcome = () => {
     return(
         <div>
-        <h1>Welcome to our apps</h1>
+        <h1>Welcome to our appss</h1>
         </div>
     );
 }
