@@ -24,9 +24,6 @@ const Navbar = () => {
                 {["Send ETH", "Market", "Wallets", "Transaction History"].map((item, index) => (
                     <NavbarItem key={item + index} title={item}  />
                 ))}
-                <li className="bg-[#322c2c] py-2 px-7 mx-4 rounded-full cursor-pointer hover:bg-[#000000]">
-                    Login
-                </li>
             </ul>
             <div className='flex relative'>
                 {toggleMenu
